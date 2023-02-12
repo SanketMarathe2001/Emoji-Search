@@ -1,8 +1,14 @@
 # Emoji-Search
 
-# Getting Started with Create React App
+Demo 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://user-images.githubusercontent.com/58138946/218322447-ef78efdf-aff4-475e-8031-af90d3ea015c.mp4
+
+
+Use below link to create API 
+link :- https://emoji-api.com/
+
+![image](https://user-images.githubusercontent.com/58138946/218322599-976e3de9-73e6-4bae-a74f-72e293eff70f.png)
 
 ## Available Scripts
 
